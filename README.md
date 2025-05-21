@@ -1,10 +1,10 @@
 # Project Title
 
-One-liner or short description of your project.
+My Project.
 
 ## Description
 
-Detailed description about what the project does and its purpose.
+How to creating an environment.
 
 ## Installation
 
